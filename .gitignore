@@ -482,3 +482,14 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Files it makes every time I run it
+bin/Debug/net8.0/dev.dll
+bin/Debug/net8.0/dev.pdb
+obj/Debug/net8.0/dev.AssemblyInfo.cs
+obj/Debug/net8.0/dev.AssemblyInfoInputs.cache
+obj/Debug/net8.0/dev.dll
+obj/Debug/net8.0/dev.pdb
+obj/Debug/net8.0/dev.sourcelink.json
+obj/Debug/net8.0/ref/dev.dll
+obj/Debug/net8.0/refint/dev.dll
